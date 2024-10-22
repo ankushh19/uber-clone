@@ -43,9 +43,6 @@ const GoogleTextInput = ({
           zIndex: 99,
         },
       }}
-      onPress={(data, details = null) => {
-        handlePress({});
-      }}
     />
   </View>
 );
